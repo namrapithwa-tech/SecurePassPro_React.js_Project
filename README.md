@@ -1,6 +1,7 @@
 # SecurePass Pro
 
-![SecurePass Pro Screenshot](https://nptechsecurepasspro.netlify.app/screenshot.png)
+![Snapshot](https://github.com/user-attachments/assets/6e421258-d76b-49a8-9e1e-bb51e2e5e4e3)
+
 
 SecurePass Pro is a modern and secure password generator designed to help users create strong passwords instantly. Built with React and Tailwind CSS, this tool is fast, customizable, and easy to use.
 

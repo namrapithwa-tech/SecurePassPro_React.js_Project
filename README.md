@@ -1,6 +1,8 @@
 # SecurePass Pro
 
-![Snapshot](https://github.com/user-attachments/assets/6e421258-d76b-49a8-9e1e-bb51e2e5e4e3)
+
+https://github.com/user-attachments/assets/31227b26-4efb-44dc-aec6-632dd89a1795
+
 
 
 SecurePass Pro is a modern and secure password generator designed to help users create strong passwords instantly. Built with React and Tailwind CSS, this tool is fast, customizable, and easy to use.

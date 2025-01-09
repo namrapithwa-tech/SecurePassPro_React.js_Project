@@ -1,7 +1,6 @@
 # SecurePass Pro
 
 
-https://github.com/user-attachments/assets/31227b26-4efb-44dc-aec6-632dd89a1795
 
 
 
